@@ -30,3 +30,5 @@ Rate: `5`
 Time: `2`
 
 Result: `Simple Interest: 100.00`
+
+Minor typo fix for merge demo.
